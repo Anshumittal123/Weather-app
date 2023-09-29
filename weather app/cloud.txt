@@ -1,0 +1,12 @@
+
+  "cloud_pct"
+  "temp" 
+  "feels_like" 
+  "humidity" 
+  "min_temp" 
+  "max_temp" 
+  "wind_speed" 1.
+  "wind_degrees" 2
+  "sunrise" 16958618
+  "sunset" 1695905063
+
